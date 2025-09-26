@@ -36,8 +36,6 @@ A lightweight, cross-platform music player written in Python. OrangPlay aims to 
 - **VLC** backend (via `python-vlc`)  
 - **CSS** for styling (`style.css`)
 
-> If you’re using PySide6 instead of PyQt5, adjust the install commands below.
-
 ---
 
 ## 🔧 Requirements
