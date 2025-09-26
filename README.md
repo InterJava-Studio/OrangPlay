@@ -1,6 +1,6 @@
 # OrangPlay • Orange Music Player
 
-A lightweight, cross-platform music player written in Python. OrangPlay aims to be simple, fast, and friendly—no bloat, just your music.
+A lightweight, cross-platform music player written in Python. OrangPlay aims to be simple, fast, and friendly-no bloat, just your music.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Built with Python](https://img.shields.io/badge/python-3.10%2B-informational)](#-requirements)
