@@ -22,9 +22,9 @@ A lightweight, cross-platform music player written in Python. OrangPlay aims to 
 
 ---
 
-## 🖼️ Screens & Branding
+## 🖼️ Screenshot
 
-<img alt="OrangPlay icon" src="./orange.png" width="96" />
+<img width="998" height="627" alt="image" src="https://github.com/user-attachments/assets/3b5b3a7f-b43d-46d4-8240-237927080216" />
 
 
 ---
