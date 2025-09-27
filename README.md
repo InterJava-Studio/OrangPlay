@@ -81,7 +81,7 @@ If VLC is not found:
 
 ## 📦 Download a Release
 
-Grab the latest binaries (if provided) from **Releases**:
+Grab the latest binaries from **Releases**:
 [https://github.com/InterJava-Studio/OrangPlay/releases](https://github.com/InterJava-Studio/OrangPlay/releases)
 
 ---
